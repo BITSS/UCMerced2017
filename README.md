@@ -1,14 +1,13 @@
-# BITSS New Delhi Reproducibility Training
-by [Garret Christensen](http://www.ocf.berkeley.edu/~garret)[1] and Julia Clark[2]
+# BITSS Uc Merced Reproducibility Training
+by [Garret Christensen](http://www.ocf.berkeley.edu/~garret)[1]
 
 [1] UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org), [Berkeley Institute for Data Science](http://bids.berkeley.edu))
 
-[2] UC San Diego
 
-## Materials for the February 2017 Reproducibility Training , New Delhi India
+## Materials for the February 2017 Reproducibility Training , UC Merced
 
 ### Installation Instructions
-The workshop will introduce you to tools that can help you make your workflow more reproducible. You are required to install [the following software programs](http://www.bitss.org/2016/01/08/open-source-software-for-reproducible-social-science/)  before coming to the workshop for the hands-on exercises. (This takes a while, so please don't leave it to the last minute! It's OK if you run into difficulties; we'll be happy to help.)
+The workshop will *briefly* introduce you to tools that can help you make your workflow more reproducible. You may want to install [the following software programs](http://www.bitss.org/2016/01/08/open-source-software-for-reproducible-social-science/)  before coming to the workshop, but we don't have enough time for a full hands-on experience.
 
 ### Workshop Materials
 The numbered files/directories will take you through the workshop in order.
@@ -33,28 +32,10 @@ X-Tools-Intro is a set of slides covering the software tools we'll discuss.
 
 ## Workshop Agenda
 
-### March 16
+### April 19
 
-Time | Session | Speaker
------------- | ------------- | -------------
-9:00 | Welcome and introductions |
-9:30 |Overview of transparency and reproducibility in social science research | Garret Christensen
-10:45 |  TEA BREAK |
-11:00 | Registration and Pre-Analysis Plans, AEA Registry and the OSF | Garret Christensen
-12:00| LUNCH BREAK |
-1:00 | Coding Reproducibly: Lessons Learned | Julia Clark & Garret Christensen
-2:30 | Data De-Identification & Sharing | Julia Clark
-3:45 | TEA BREAK |
-4:00 | Replication & Data Sharing Activity | Julia Clark
+Time | Session 
+------------ | -------------
 
-### March 17
-
-Time | Session | Speaker
------------- | ------------- | -------------
-9:00 | Version Control with Git + Github I | Garret Christensen
-10:30 |  TEA BREAK |
-10:45 |Version Control with Git + Github II | Garret Christensen
-12:30| LUNCH BREAK |
-1:30 | Dynamic Documents using Stata| Garret Christensen
-3:00 | TEA BREAK |
-3:30 | Dynamic Documents using R | Julia Clark
+10:30 |Overview of transparency and reproducibility in social science research 
+12:00| Software Tools for Reproducible Workflow: version control and dynamic documents
