@@ -36,6 +36,5 @@ X-Tools-Intro is a set of slides covering the software tools we'll discuss.
 
 Time | Session 
 ------------ | -------------
-
 10:30 |Overview of transparency and reproducibility in social science research 
 12:00| Software Tools for Reproducible Workflow: version control and dynamic documents
