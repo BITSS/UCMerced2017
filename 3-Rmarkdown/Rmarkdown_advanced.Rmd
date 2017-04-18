@@ -92,7 +92,7 @@ Let's first begin by clearing our workspace and setting our working directory:
 
 ```{r, echo=TRUE, message=FALSE}
 rm(list = ls()) # clear workspace; always a good idea when starting
-setwd ("~/Documents/RA/India_BITSS/rmarkdown") # change your working directory
+#setwd ("~/Documents/RA/India_BITSS/rmarkdown") # change your working directory
 ```
 
 Then, let's load our packages:
