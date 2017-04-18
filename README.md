@@ -14,20 +14,22 @@ The numbered files/directories will take you through the workshop in order.
 
 1-Intro features a set of slides (Beamer/LaTeX slides rendered as PDF) that discuss the reproducibility crisis in the social sciences.
 
-2-Reg-and-PAP is slides and activities on registration and pre-analysis plans.
+2-Tools-Intro is a set of slides covering the software tools we'll discuss.
 
-3-Repro-Code is slides and activities on coding for reproducibility.
+3-[fill in the blank] contains example files to run dynamic documents in both Stata and R.
 
-4-DataSharing-and-Rep is slides and activities on data de-identification, sharing, and replication.
-
-5-VersionControl describes activities for using Git with the Github Desktop application and the Github website.
-
-6-[fill in the blank] contains example files to run dynamic documents in both Stata and R.
+4-VersionControl describes activities for using Git with the Github Desktop application and the Github website.
 
 #### Additional Materials:
-X-Frontier is a set of slides on new opportunities (grants, workshops, etc.) in transparency.
+x-Frontier is a set of slides on new opportunities (grants, workshops, etc.) in transparency.
 
-X-Tools-Intro is a set of slides covering the software tools we'll discuss.
+x-Reg-and-PAP is slides and activities on registration and pre-analysis plans.
+
+x-Repro-Code is slides and activities on coding for reproducibility.
+
+x-DataSharing-and-Rep is slides and activities on data de-identification, sharing, and replication.
+
+
 
 
 ## Workshop Agenda
