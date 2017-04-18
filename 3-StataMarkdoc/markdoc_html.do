@@ -1,5 +1,10 @@
-    cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\ICPSR\ICPSR2016\6-StataMarkdoc"	
-	//change this for your computer
+   *cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\UCMerced\UCMerced2017\3-StataMarkdoc" 
+	//change this for your computer, or try:
+	di c(pwd)
+	local drive = substr("`c(pwd)'", 1, 2)
+	cd `drive'
+	//Or try the -project- package by Robert Picard
+	
 	cap qui log c
 	set linesize 70
 	set more off

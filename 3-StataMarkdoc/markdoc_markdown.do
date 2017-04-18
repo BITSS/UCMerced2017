@@ -1,7 +1,12 @@
 
      set linesize 90
-	 cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\NewDelhi\NewDelhi2017\6-StataMarkdoc" 
-	 //change this for your computer!
+	 *cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\UCMerced\UCMerced2017\3-StataMarkdoc" 
+	//change this for your computer, or just do:
+	di c(pwd)
+	local drive = substr("`c(pwd)'", 1, 2)
+	cd `drive'
+	//Or try the -project- package by Robert Picard
+	
 	 capture quietly log close
      set more off
 	 qui log using example, replace

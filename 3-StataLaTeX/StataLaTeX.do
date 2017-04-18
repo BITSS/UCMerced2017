@@ -5,7 +5,12 @@ clear all
 set more off 
 version 12.1
 //change this next line as necessary
-cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\NewDelhi\NewDelhi2017\6-StataLaTeX"
+*cd "C:\Users\garret\Box Sync\CEGA-Programs-BITSS\1_Events\3_Workshops-Seminars\NewDelhi\NewDelhi2017\6-StataLaTeX"
+//Or, just use this little trick to automatically use the current directory
+di c(pwd)
+local drive = substr("`c(pwd)'", 1, 2)
+cd `drive'
+
 use WASHBpublic_mock.dta
 
 *Do I have the same data as I used to, or as my collaborator does?
